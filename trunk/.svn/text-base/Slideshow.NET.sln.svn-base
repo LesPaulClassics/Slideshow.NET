@@ -1,0 +1,60 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B79696D5-4A1B-43E6-84B4-B7B59A269A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideshowScreensaver", "SlideshowScreensaver\SlideshowScreensaver.csproj", "{8C9FFAE7-E572-470E-9F64-40612611B213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breadboard", "Breadboard\Breadboard.csproj", "{068F8465-7E49-469B-9720-7E05B64154F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideshowCommon", "SlideshowCommon\SlideshowCommon.csproj", "{2C6670B8-CFD5-4355-91AC-118B002E8918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideshowSetup", "SlideshowSetup\SlideshowSetup.csproj", "{38128B46-4C23-4FF6-8BB7-310606909E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9FFAE7-E572-470E-9F64-40612611B213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9FFAE7-E572-470E-9F64-40612611B213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9FFAE7-E572-470E-9F64-40612611B213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9FFAE7-E572-470E-9F64-40612611B213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068F8465-7E49-469B-9720-7E05B64154F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068F8465-7E49-469B-9720-7E05B64154F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068F8465-7E49-469B-9720-7E05B64154F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068F8465-7E49-469B-9720-7E05B64154F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6670B8-CFD5-4355-91AC-118B002E8918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6670B8-CFD5-4355-91AC-118B002E8918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6670B8-CFD5-4355-91AC-118B002E8918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6670B8-CFD5-4355-91AC-118B002E8918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38128B46-4C23-4FF6-8BB7-310606909E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38128B46-4C23-4FF6-8BB7-310606909E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38128B46-4C23-4FF6-8BB7-310606909E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38128B46-4C23-4FF6-8BB7-310606909E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = Breadboard\\Breadboard.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = Breadboard\\
+		SccProjectUniqueName2 = SlideshowCommon\\SlideshowCommon.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = SlideshowCommon\\
+		SccProjectUniqueName3 = SlideshowScreensaver\\SlideshowScreensaver.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = SlideshowScreensaver\\
+		SccProjectUniqueName4 = SlideshowSetup\\SlideshowSetup.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = SlideshowSetup\\
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TSOP.SlideShow.Image Unavailable.bmp
+bin\Debug\TSOP.Utilities.pdb
+bin\Debug\TSOP.SlideshowCommon.dll
+bin\Debug\TSOP.SlideshowCommon.pdb
+obj\Debug\TSOP.SlideshowCommon.dll
+obj\Debug\TSOP.SlideshowCommon.pdb
+obj\Debug\TSOP.SlideShow.Strings.resources
+obj\Debug\SlideshowCommon.csproj.GenerateResource.Cache
+bin\Debug\TSOP.Utilities.dll

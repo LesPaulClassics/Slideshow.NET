@@ -1,0 +1,15 @@
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideshowSetup.NET.exe
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideshowSetup.NET.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\bin\Debug\TSOP.SlideshowSetup.NET.exe
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\bin\Debug\TSOP.SlideshowSetup.NET.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\bin\Debug\TSOP.SlideshowCommon.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\bin\Debug\TSOP.SlideshowCommon.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideShow.EntryFormBase.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\Breadboard.FullScreenForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideShow.KeywordEditForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideShow.ListBoxResultsForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideShow.PreviewForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\TSOP.SlideShow.SlideShowSetupForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowSetup\obj\Debug\GenerateResource.write.1.tlog

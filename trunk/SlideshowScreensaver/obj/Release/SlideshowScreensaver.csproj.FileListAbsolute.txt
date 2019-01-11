@@ -1,0 +1,9 @@
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\obj\Release\TSOP.SlideShow.ScreenSaverForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\obj\Release\GenerateResource.read.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\obj\Release\GenerateResource.write.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\bin\Release\TSOP.SlideshowScreensaver.NET.exe
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\bin\Release\TSOP.SlideshowCommon.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\bin\Release\TSOP.Utilities.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\bin\Release\TSOP.Utilities.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowScreensaver\obj\Release\TSOP.SlideshowScreensaver.NET.exe

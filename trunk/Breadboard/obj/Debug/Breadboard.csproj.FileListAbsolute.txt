@@ -1,0 +1,12 @@
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\Breadboard.Form1.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\Breadboard.FullScreenForm.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\Breadboard.Resource1.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\bin\Debug\Breadboard.exe
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\bin\Debug\Breadboard.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\bin\Debug\TSOP.SlideshowCommon.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\bin\Debug\TSOP.SlideshowCommon.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\Breadboard.exe
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\Breadboard\obj\Debug\Breadboard.pdb

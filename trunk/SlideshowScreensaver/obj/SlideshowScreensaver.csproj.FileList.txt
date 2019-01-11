@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TSOP.SlideShow.ScreenSaverForm.resources
+obj\Debug\SlideshowScreensaver.csproj.GenerateResource.Cache
+bin\Debug\TSOP.Utilities.pdb
+bin\Debug\TSOP.SlideshowScreensaver.NET.exe
+bin\Debug\TSOP.SlideshowScreensaver.NET.pdb
+bin\Debug\TSOP.SlideshowCommon.dll
+bin\Debug\TSOP.SlideshowCommon.pdb
+obj\Debug\TSOP.SlideshowScreensaver.NET.exe
+obj\Debug\TSOP.SlideshowScreensaver.NET.pdb
+bin\Debug\TSOP.Utilities.dll

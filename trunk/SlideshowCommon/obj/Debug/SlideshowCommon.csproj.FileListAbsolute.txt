@@ -1,0 +1,8 @@
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\bin\Debug\TSOP.SlideshowCommon.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\bin\Debug\TSOP.SlideshowCommon.pdb
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\TSOP.SlideShow.Strings.resources
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\TSOP.SlideshowCommon.dll
+D:\Users\Stan\Documents\Programming\C#\Programs\Slideshow.NET\trunk\SlideshowCommon\obj\Debug\TSOP.SlideshowCommon.pdb

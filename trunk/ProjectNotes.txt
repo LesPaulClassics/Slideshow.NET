@@ -1,0 +1,123 @@
+TODO List
+D disable diagnostic event logging!
+D ADD MOVE / COPY CAPABILITY!
+D use enter for "OK" on edit keywords dialog
+D add button to "rescan" keywords
+D Add ctrl-A capability to listviews
+d when listview is sorted, keep selections on original rows
+D consider using AddRange to populate ListView
+D use NoUpdate and ResumeUpdate methods when populating listview
+D show current config file name is title bar
+D Double Click on Preview Window to Maximize it
+D Double click on image item to open preview window and display it
+--- add drag & drop functionality to and from listview and windows explorer
+--- add ability to select images based on keywords
+- complete functionality of menu items
+- Add default configuration settings to setup
+	= bind directly to the properties of the config object?
+- add support for multiple monitors. paint a different image on each monitor?
+- Add version control
+- set name of Screensaver as it appears in display setup window
+- add mouse wheel as control for advancing images
+- add images for toolbar buttons
+- Add "Rename File" to context menu
+
+Bugs
+- Why does it use up so much memory?
+- Add a keyword to an image, advance to another image in the listview with down arrow, add a different keyword to that image, and both keywords will be added.
+- Apply Edit Keywords to an image, then move to another image in listview, then use left arrow to demote new image. The keywords from the previous image will also be applied.
+D Keyword list does not get updated when new files are added, then Keywords scanned
+D when deleting a range of files from the script, going back to the first entry, an IndexOutOfRange exception occurs
+D when adding keywords, extra comma at the beginning
+D "X Images" label and status label is not anchored to bottom of dialog window
+D keyboard events are not getting handled when system screensaver is running
+D If Save Button is pushed after New Button, it tries to save an un-named file and blows up
+- SOME thumbnails are getting corrupted for Graphics Workshop
+- Cannot move or delete a file if it is being previewed
+D Cannot select more than one image item and use <- or -> to promote/demote
+D When selecting multiple images and promoting/demoting, the don't all wind up with the same ranks
+D edit keywords is showing more keywords than in the selected files
+	= this only happens when more than one image is selected
+	= this is part of a much larger bug that is hard to recreate
+		+ seems to happen only after using application for a long time
+		+ adding keywords doesn't sort the keyword list with the addition
+		+ promoting / demoting seems to base rank on last selected image item
+D "New" script does not do anything (MUST CLICK "NEW" CONFIG FILE FIRST)
+D when readKeywords = true, keywords are being added twice to each imageitem
+D keywordList is only being built when the first script file is selected
+D clear all button on edit keywords form does not work
+- why are offsets not getting saved anywhere?
+D screensaver mode does not seem to be using scale factor
+   D Preview window presents a different cropping of the image as the size of the preview window changes
+- When slideshow is running, sometimes advancing to next image advances two images
+- some images still load with offset of 768,0
+- when deleting an item from the listview, the listview index goes back to 0
+
+
+
+Feature List
+
+- Screen Saver
+	X allow XML input file
+		- decide on a more efficient format
+	D use registry for .ini setting
+	= allow backwards compatibility with old file
+	D allow offsetting in addition to scaling
+
+- Setup Dialog
+	= allow scanning for images both with and without .thn files
+	= show entry in a different color if it doesn't have a .thn
+	X ??? move keywords to JPG headers???
+	= allow multi-column sorting in listview
+	= ??? drag and drop selected entries to a new script file ???
+	= drag and drop files from the file system (add to list) and vice-versa (copy or move files)
+	= Improve filter logic, add NOT, XOR, NAND, etc.
+	= Allow selection from within list based on selected keywords
+	= ??? make custom skin ???
+	= allow multiple instances of dialog without screwing up registry
+	D add modified date column
+	D store all keyword data in script file, and provide an update function
+	= ??? Show thumbnails in listview ???
+	= Create function for converting old .ini and script files to new format
+	= Create function for mass-updating / replacing keywords
+	D Add option to disable registry storing last file folders and window positions
+	D allow multiple script files to be used during screensaver execution
+
+
+
+Research
+
+- How to use resource files to customize setup dialog form?
+D How to write a screensaver application in .Net?
+D Can JPG's store keywords in the header?
+
+Prototypes
+
+- Screensaver that displays images from disk
+- Form that uses resources for skin
+- Separate resizeable preview window
+
+
+
+
+		#region Members
+
+		#endregion
+
+		#region Properties
+
+		#endregion
+
+		#region Constructors
+
+		#endregion
+
+		#region Destructors
+
+		#endregion
+
+		#region Methods
+
+		#endregion
+
+

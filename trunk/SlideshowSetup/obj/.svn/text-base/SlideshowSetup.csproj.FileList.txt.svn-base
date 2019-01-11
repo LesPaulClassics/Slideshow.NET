@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TSOP.SlideShow.EntryFormBase.resources
+obj\Debug\Breadboard.FullScreenForm.resources
+obj\Debug\TSOP.SlideShow.KeywordEditForm.resources
+obj\Debug\TSOP.SlideShow.PreviewForm.resources
+obj\Debug\TSOP.SlideShow.SlideShowSetupForm.resources
+obj\Debug\SlideshowSetup.csproj.GenerateResource.Cache
+obj\Debug\TSOP.SlideShow.ListBoxResultsForm.resources
+bin\Debug\TSOP.SlideshowSetup.NET.exe
+bin\Debug\TSOP.SlideshowSetup.NET.pdb
+bin\Debug\TSOP.Utilities.pdb
+obj\Debug\TSOP.SlideshowSetup.NET.exe
+obj\Debug\TSOP.SlideshowSetup.NET.pdb
+bin\Debug\TSOP.SlideshowCommon.dll
+bin\Debug\TSOP.SlideshowCommon.pdb
+bin\Debug\TSOP.Utilities.dll
